@@ -15,7 +15,7 @@ print("More text")
 #Printing to one line in an Idiomatic way
 def printSingleLine(text):
 	"""
-	Print on a single line (Continusly and remove last line text to prevent overflow)
+	Print on a single line (Continuously and remove last line text to prevent overflow)
 	Created by Richard Jones: https://www.linkedin.com/in/richard-jones-2a8934a2/
 	import sys  (call needed)
 	"""
