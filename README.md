@@ -15,7 +15,8 @@ Some Text
 print("Some text")
 print("More text")
 #-- Output --
-Some textMore text
+Some text
+More text
 ```
 
 #Printing to one line in an Idiomatic way
@@ -35,7 +36,7 @@ def printSingleLine(text):
 #Usage
 ```
 for ln in range(0,100):
-	printSingleLine(ln)
+	printSingleLine(ln)     // ln = some text you want to update on the UI end
 ```
 #Example video
 
