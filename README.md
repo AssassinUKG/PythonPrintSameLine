@@ -24,7 +24,6 @@ More text
 
 #Printing to one line in an Idiomatic way
 ```
-
 def printSingleLine(text):
 	"""
 	Print on a single line 
