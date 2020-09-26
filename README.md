@@ -40,3 +40,7 @@ for ln in range(0,100):
 #Example video
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/xXnNMv5/ezgif-com-gif-maker.gif" alt="ezgif-com-gif-maker" border="0"></a>
+
+#Notes
+
+Do not add "\r", "\r\n" to the end of the line, this will cause the string terminator to be ignored. 
