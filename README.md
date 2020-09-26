@@ -1,6 +1,6 @@
 # Python Print On the Same Line
 
-
+Showcased due to not finding a good working source for this exact problem (print on one line in stdout with no issues) 
 
 
 #Printing a single line
