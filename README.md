@@ -2,6 +2,9 @@
 
 Showcased due to not finding a good working source for this exact problem (print on one line in stdout with no issues) 
 
+You can as you know, print(text) to the console, but this creates a new line or lines jsut added together (line = line + line).
+I wanted to get the results of certain output from ongoing operations but didn't need to really see the exact info but more an update in progress without 
+filling up the who console window with the results. This was my solutuon. 
 
 #Printing a single line
 ```
