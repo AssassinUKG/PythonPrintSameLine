@@ -43,4 +43,4 @@ for ln in range(0,100):
 
 #Notes
 
-Do not add "\r", "\r\n" to the end of the line, this will cause the string terminator to be ignored. 
+Do not add "\r", "\r\n" or "\n" to the end of the line, this will cause the string terminator to be ignored. 
