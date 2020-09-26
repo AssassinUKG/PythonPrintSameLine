@@ -37,3 +37,6 @@ def printSingleLine(text):
 for ln in range(0,100):
 	printSingleLine(ln)
 ```
+#Example video
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/xXnNMv5/ezgif-com-gif-maker.gif" alt="ezgif-com-gif-maker" border="0"></a>
